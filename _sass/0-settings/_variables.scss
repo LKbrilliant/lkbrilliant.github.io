@@ -6,7 +6,7 @@
 $base-spacing-unit: 20px;
 
 // Border radius
-$global-radius: 3px;
+$global-radius: 1%;
 
 // Transition
 $global-transition: all .35s;
@@ -15,28 +15,36 @@ $global-transition: all .35s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #f6b141;
-$dark: #393e46;
+// $brand-color: #f6b141;
+// $dark: #393e46;
+// $gray: #bbbbbb;
+// $light-gray: #e6eef0;
+// $white: #ffffff;
+// $black: #000000;
+
+$brand-color: #42b23e;
+$dark: #2a2a2a;
 $gray: #bbbbbb;
 $light-gray: #e6eef0;
 $white: #ffffff;
 $black: #000000;
+$deep-dark: #222222;
 
 // Background Colors
-$background-color: $white;
+$background-color: $dark;
 
 // Body Color
-$text-color: $dark;
+$text-color: $light-gray;
 
 // Headings
-$heading-font-color: $dark;
+$heading-font-color: $light-gray;
 
 // Links
 $link-color: $brand-color;
 $link-color-hover: darken($dark, 15%);
 
 // Button
-$button-color: $white;
+$button-color: $light-gray;
 $button-background-color: $brand-color;
 
 // Border

@@ -25,6 +25,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-color: $light-gray;
+    border-radius: 1%;
     &:after {
       content: "";
       display: table;
@@ -54,10 +55,10 @@
     a {
       display: inline-block;
       margin-left: 10px;
-      color: $dark;
+      color: $light-gray;
       font-weight: 700;
       &:hover {
-        color: $black;
+        color: $gray;
       }
     }
   }

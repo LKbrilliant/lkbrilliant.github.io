@@ -1,51 +1,75 @@
 [
   
     {
-      "title"    : "Find a connection with the reader",
+      "title"    : "Backup Battery Pack",
       "category" : "",
-      "tags"     : "Resources",
-      "url"      : "/zolan/2018/07/24/find-a-connection-with-the-reader/",
-      "date"     : "24 Jul, 2018"
+      "tags"     : "",
+      "url"      : "/2019/09/01/Backup_Battery_Pack/",
+      "date"     : "1 Sep, 2019"
     } ,
   
     {
-      "title"    : "Why a brand is often important",
+      "title"    : "Spot Welder",
       "category" : "",
-      "tags"     : "Style",
-      "url"      : "/zolan/2018/07/19/why-a-brand-is-often-important/",
-      "date"     : "19 Jul, 2018"
+      "tags"     : "",
+      "url"      : "/2019/07/12/Spot_Welder/",
+      "date"     : "12 Jul, 2019"
     } ,
   
     {
-      "title"    : "Time to give gifts to everyone",
+      "title"    : "WiFi Switch",
       "category" : "",
-      "tags"     : "Life",
-      "url"      : "/zolan/2018/07/17/time-to-givegifts-to-everyone/",
-      "date"     : "17 Jul, 2018"
+      "tags"     : "",
+      "url"      : "/2019/06/02/WiFi_Switch/",
+      "date"     : "2 Jun, 2019"
     } ,
   
     {
-      "title"    : "Moving to a new place",
+      "title"    : "Security System",
       "category" : "",
-      "tags"     : "Home",
-      "url"      : "/zolan/2018/07/05/moving-to-a-new-place/",
-      "date"     : "5 Jul, 2018"
+      "tags"     : "",
+      "url"      : "/2019/02/14/Security_System/",
+      "date"     : "14 Feb, 2019"
     } ,
   
     {
-      "title"    : "Start the day with the right habit",
+      "title"    : "Bench Power Supply",
       "category" : "",
-      "tags"     : "Style",
-      "url"      : "/zolan/2018/06/25/start-the-day-with-the-right-habit/",
-      "date"     : "25 Jun, 2018"
+      "tags"     : "",
+      "url"      : "/2018/10/26/Bench_Power_Supply/",
+      "date"     : "26 Oct, 2018"
     } ,
   
     {
-      "title"    : "Welcome to Jekyll!",
+      "title"    : "Solder Paste Dispenser",
       "category" : "",
-      "tags"     : "Jekyll",
-      "url"      : "/zolan/2018/05/29/welcome-to-jekyll/",
-      "date"     : "29 May, 2018"
+      "tags"     : "",
+      "url"      : "/2018/08/28/Solder_Paste_Dispenser/",
+      "date"     : "28 Aug, 2018"
+    } ,
+  
+    {
+      "title"    : "Simple Desk Lamp",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2018/07/14/Simple_Desk_Lamp/",
+      "date"     : "14 Jul, 2018"
+    } ,
+  
+    {
+      "title"    : "LDR Scanner",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2017/10/02/LDR_Scanner/",
+      "date"     : "2 Oct, 2017"
+    } ,
+  
+    {
+      "title"    : "Ball Balancing Bot",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2017/09/25/Ball_Balancing_Bot/",
+      "date"     : "25 Sep, 2017"
     } 
   
 ]
