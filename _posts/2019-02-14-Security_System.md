@@ -26,8 +26,15 @@ Features:
 - In case of a Low Battery Level detection, the owner will be notified by an SMS
 For visual indication, I’ve used an custom-made LED bar consisting of 8 LEDs (0603-SMD)   
 
-![]({{ site.baseurl }} /media/2019-Security-System/trig.gif)
-*LED bar when the system is triggred*
+<figure>
+<center><img src="/media/2019-Security-System/trig.gif">
+<figcaption><i>LED Animation: when the system is triggred</i></figcaption>
+</center>
+</figure>
 
-![]({{ site.baseurl }} /media/2019-Security-System/waiting.gif)
-*Waiting before the system is fully armed*
+<figure>
+<center><img src="/media/2019-Security-System/waiting.gif">
+<figcaption><i>LED Animation: before the system fully armed</i></figcaption>
+</center>
+</figure>
+
