@@ -34,4 +34,4 @@ In this example, the set point where the ball is supposed to settle on is moving
 </video>
 
 ## Source Files
-You can find the source code of this project on my github repository: [Ball-Balancing-Bot](https://github.com/LKbrilliant/Ball-Balancing-Bot)
+You can find the source code of this project on my GitHub repository: [Ball-Balancing-Bot](https://github.com/LKbrilliant/Ball-Balancing-Bot)
