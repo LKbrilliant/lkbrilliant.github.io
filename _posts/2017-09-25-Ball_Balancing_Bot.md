@@ -27,11 +27,11 @@ The following video shows how the ball is balancing on the platform. Here you ca
 </video>
 
 ## Trying to move on a circle
-In this example, the set point where the ball is supposed to settle on is moving in a circle. So, the ball is contently trying to catch up to it by following a circular path.
+In this example, the set point where the ball is supposed to settle on is moving in a circle. So, the ball is constantly trying to catch up to it by following a circular path.
 
 <video height="480" controls>
   <source src="/media/2017-Ball-Balancing-Bot/vid_ball_circle.mp4" type="video/mp4">
 </video>
 
-## Source
+## Source Files
 You can find the source code of this project on my github repository: [Ball-Balancing-Bot](https://github.com/LKbrilliant/Ball-Balancing-Bot)
