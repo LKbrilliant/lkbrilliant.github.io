@@ -21,7 +21,19 @@ Since I had several of these universal travel adapters lying around, I used them
 ![]({{ site.baseurl }} /media/2019-WiFi-Switch/img_03.jpg)
 *Internal circuitry of the device*
 
-The goal of this PCB is to switch the live connection on/off using a relay. Then the relay needs to be controlled by the WiFi module (`ESP8266-01`). To power the ESP and the relay, I used a `Hi-Link 5V` power module and, it was able to provide `5V` up to `600mA`. The `5V` input is regulated to `3.3v` and fed to the ESP module. Unfortunately, as you can see from the extra wires I had to solder, the first version of the board had some issues. 
+The goal of this PCB is to switch the live connection on/off using a relay. Then the relay needs to be controlled by the WiFi module (`ESP8266-01`). To power the ESP and the relay, I used a `Hi-Link 5V` power module and, it was able to provide `5V` up to `600mA`. The `5V` input is regulated to `3.3v` and fed to the ESP module. Unfortunately, as you can see from the extra wires I had to solder, the first version of the board had some issues.
+
+To build this device, I used the following list of parts and components.
+
+- 1 × WiFi module: `ESP8266-01` 
+- 1 × `230VAC` to `5VDC` converter: `HiLink-HLK-PM01 3W`
+- 1 × `5V` Relay
+- 1 × `3.3V` Regulator: `LM1117-3.3V`
+- 1 × NPN Transistor: `MMBT2222A`
+- 1 × SMD Diode: `1N4007`
+- 3 × Resistors: `1x10kΩ`, `2x1kΩ`
+- 2 × `0805` Capacitors: `0.1μF`, `10μF`
+- 2 × `0603` LEDs
 
 ## Version 2
 
