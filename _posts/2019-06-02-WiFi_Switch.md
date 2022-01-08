@@ -61,7 +61,7 @@ After the module establishes the connection, it will generate a page in a static
 
 <figure>
 <center><img src="/media/2019-WiFi-Switch/UI.gif">
-<figcaption><i>Turnin On/Off the WiFi Switch</i></figcaption>
+<figcaption><i>Turning On/Off the WiFi Switch</i></figcaption>
 </center>
 </figure>
 
