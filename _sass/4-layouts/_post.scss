@@ -46,7 +46,9 @@
    .post__tags-tag {
      position: relative;
      padding-left: 15px;
+     padding-right: 5px;
      font-weight: 700;
+     text-transform: uppercase;
      &:before {
        content: "";
        position: absolute;
