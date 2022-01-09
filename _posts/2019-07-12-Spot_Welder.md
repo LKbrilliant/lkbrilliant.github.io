@@ -3,6 +3,7 @@ layout: post
 title:  Spot Welder
 date:   2019-07-12 08:00:00 +0530
 image:  2019-Spot-Welder/img_01.jpg
+tags:   3d-printing welding
 ---
 
 When connecting `18650` Li-ion cells to build battery packs, soldering conductors directly to the cells is a bad idea. The best way to connect batteries is to spot weld metal conductors onto the batteries. But these spot welding machines are usually expensive and, if you are not planning on using one professionally, buying one is pointless. There are several ways that you could build a spot welder yourself. All you need is a high enough current source to heat up and weld two metals together.

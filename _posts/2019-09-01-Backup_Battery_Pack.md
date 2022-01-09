@@ -3,6 +3,7 @@ layout: post
 title:  Backup Battery Pack
 date:   2019-09-01 08:00:00 +0530
 image:  2019-Backup-Battery-Pack/img_01.jpg
+tags:   welding battery solar
 ---
 In this project, I've built a Li-ion battery pack that is capable of charging directly from a solar panel. The battery pack has `75` cells in a `3`-cell configuration which results in a `12V` output. I used an external inverter to convert the DC output of the battery to `230VAC`.
 

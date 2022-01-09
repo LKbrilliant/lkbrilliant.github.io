@@ -3,6 +3,7 @@ layout: post
 title:  Simple Security System
 date:   2019-02-14 08:00:00 +0530
 image:  2019-Security-System/img_01.jpg
+tags:   arduino gsm
 ---
 Nowadays, anyone with a basic understanding of electronics can build their security systems with the help of microcontrollers like Arduino development boards. This project is my take on that. 
 
