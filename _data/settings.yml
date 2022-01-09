@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: LKBrilliant
-logo: logo.svg
+logo: # You can add own logo.
 description: Showcase of my projects
 
 
