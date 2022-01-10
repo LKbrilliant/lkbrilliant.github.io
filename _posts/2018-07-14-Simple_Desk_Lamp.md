@@ -3,7 +3,7 @@ layout: post
 title:  Simple Desk Lamp
 date:   2018-07-14 08:00:00 +0530
 image:  2018-Simple-Desk-Lamp/img_01.jpg
-tags:   3d-printing
+# tags:   3d-printing
 ---
 Recently I needed to replace my old desk lamp. Instead of going to a shop and buying one like a normal person, I have decided to design one for myself.
 

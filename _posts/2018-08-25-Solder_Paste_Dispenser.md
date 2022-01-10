@@ -3,7 +3,7 @@ layout: post
 title:  Solder Paste Dispenser
 date:   2018-08-28 08:00:00 +0530
 image:  2018-Solder-Paste-Dispenser/img_01.jpg
-tags:   3d-printing soldering arduino
+# tags:   3d-printing soldering arduino
 ---
 The easiest way to apply solder paste onto a PCB is by using a stencil. But when prototyping, the layout of the PCB changes over time. For small PCBs often the stencil is more expensive than the PCB itself. So, using stencils for every board iteration is not very cost-effective. That is where solder paste dispensers come in.
 

@@ -3,7 +3,7 @@ layout: post
 title:  WiFi Switch
 date:   2019-06-02 08:00:00 +0530
 image:  2019-WiFi-Switch/img_01.jpg
-tags:   3d-printing wireless
+# tags:   3d-printing wireless
 ---
 This wall outlet can turn On/Off any device plugged into it. It uses an `ESP8266-01` module to connect to the home network over WiFi.
 

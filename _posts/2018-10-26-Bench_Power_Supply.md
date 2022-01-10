@@ -3,7 +3,7 @@ layout: post
 title:  Bench Power Supply
 date:   2018-10-26 08:00:00 +0530
 image:  2018-Bench-Power-Supply/img_01.jpg
-tags:   3d-printing
+# tags:   3d-printing
 ---
 Most lab bench power supplies are somewhat heavy and bulky. But don't get me wrong, they are powerful and convenient. Since I needed a power supply for some time, I've decided to build one using parts that are readily accessible; like DPS power supply modules. I used the DPS3012 as the power control unit of my build. Since It can handle input voltages up to 40VDC, I used a 240VAC to 36VDC switching power converter as the supply. 
 

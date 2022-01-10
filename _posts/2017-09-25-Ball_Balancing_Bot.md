@@ -3,7 +3,7 @@ layout: post
 title:  Ball Balancing Bot
 date:   2017-09-25 08:00:00 +0530
 image:  2017-Ball-Balancing-Bot/img_01.jpg
-tags:   computer-vision pid exhibit
+# tags:   computer-vision pid exhibit
 ---
 
 This is one of the projects I build as an exhibit during my university freshman year. In this project, a ping-pong ball was balanced on a small servo-controlled platform. The platform has two degrees of freedom (2-DoF) and it was controlled using two 5V servos motors. To track the ball on the platform I used a vision-based technique.

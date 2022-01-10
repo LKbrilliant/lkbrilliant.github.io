@@ -3,7 +3,7 @@ layout: post
 title:  "LDR Scanner"
 date:   2017-10-12 08:00:00 +0530
 image:  2017-LDR-Scanner/img_01.jpg
-tags:   exhibit
+# tags:   exhibit
 ---
 This is a proof of concept which uses an array of LDRs (Light Dependent Resistors) with RGB LEDs to scan and digitally reconstruct a color image. This was designed to scan a color image on `A4`-sized paper. The final resolution of the scanned image is `40x57` pixels.
 
